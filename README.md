@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FerzanGuler. My major is software engineering in Bahcesehir University 3rd grade.
+- 👀 I’m interested in software engineering back-end and front-end developer.
+- 🌱 I’m currently java, pyhthon and some of ios and android langugages.
+- 📫 How to reach me ferzan.guler@outlook.com
